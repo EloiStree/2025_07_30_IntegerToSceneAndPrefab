@@ -7,5 +7,6 @@ Example of use:
 - `I_P_21000000_XR_ANDROID.txt` Prefab XR Android only
 - `I_S_21000001_WINDOW.txt` Scene Only Window
 - `I_S_21000002_WEB_XR.txt` Scene Only Web GL XR
+- `I_S_21000002_WEB_XR.txt` Scene Only Web GL XR
 
 Put description inside the file in English of what the scene or prefab is suppose to be.
