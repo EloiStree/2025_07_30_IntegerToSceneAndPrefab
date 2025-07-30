@@ -11,6 +11,13 @@ Example of use:
 
 Put description inside the file in English of what the scene or prefab is suppose to be.
 
+```
 EN: The following part is for English language (future feature of this tool should be multilanguage.)
-Keyword: enter, keyword, here
-OneLine: Enter a one line description here
+|Keyword: enter, keyword, here
+|OneLine: Enter a one line description here
+|Youtube: youtube url to learn more
+|Manual: Read more about it here.
+
+
+
+```
