@@ -16,7 +16,7 @@ EN: The following part is for English language (future feature of this tool shou
 |Keyword: enter, keyword, here
 |OneLine: Enter a one line description here
 |Youtube: youtube url to learn more
-|Manual: Read more about it here.
+|Manual: Read more about it here URL
 
 
 
