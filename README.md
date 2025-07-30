@@ -8,4 +8,4 @@ Example of use:
 - `I_S_21000001_WINDOW.txt` Scene Only Window
 - `I_S_21000002_WEB_XR.txt` Scene Only Web GL XR
 
-Put description in English of what the scene or prefab is suppose to be.
+Put description inside the file in English of what the scene or prefab is suppose to be.
