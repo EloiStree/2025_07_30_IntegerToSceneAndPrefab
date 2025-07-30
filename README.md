@@ -1,2 +1,9 @@
 # 2025_07_30_IntegerToSceneAndPrefab
 A utility that enables loading scenes and prefabs from resources using integers. Its purpose is to create a lab environment that can be interacted with both externally and from within the application.
+
+
+
+Example of use:
+- `I_P_21000000_XR_ANDROID.txt` Prefab XR Android only
+- `I_S_21000001_WINDOW.txt` Scene Only Window
+- `I_S_21000002_WEB_XR.txt` Scene Only Web GL XR
